@@ -1,6 +1,7 @@
 site_name: Brain Dump Logs
 site_description: Personal blog for free writing and thoughts
 site_author: maxchen
+site_url: https://haomaaax.github.io/brain-dump-logs/
 
 theme:
   name: material
